@@ -1,0 +1,19 @@
+{
+    "redhat.telemetry.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.fontFamily": "'Fira Code', monospace",
+    "editor.fontWeight": "400",
+    "editor.fontSize": 18,
+    "terminal.integrated.fontSize": 16,
+    "editor.wordWrap": "on",
+    "vs-kubernetes": {
+        "vscode-kubernetes.kubectl-path.linux": "/home/grandehe4rt/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.helm-path.linux": "/home/grandehe4rt/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.minikube-path.linux": "/home/grandehe4rt/.vs-kubernetes/tools/minikube/linux-amd64/minikube"
+    },
+    "editor.rulers": [
+        80
+    ],
+}
